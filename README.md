@@ -12,7 +12,7 @@ Esse projeto faz parte de uma atividade avaliativa da disciplina de Desenvolvime
 **Autores**
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="doc \ foto perfil.jpg" width="100px"> | Igor Felix Silva | [Sigfe](https://github.com/Sigfe/CRUD.git) | [Igor Silva](https://www.linkedin.com/in/igor-silva-4a42981ab/) | igorfelixse@gmail.com
+<img src="doc\foto perfil.jpg" width="100px"> | Igor Felix Silva | [Sigfe](https://github.com/Sigfe/CRUD.git) | [Igor Silva](https://www.linkedin.com/in/igor-silva-4a42981ab/) | igorfelixse@gmail.com
 
 **Tecnologias**
 
