@@ -20,7 +20,7 @@ Linguagem:
 
 - php
 
-Banco de dados
+Banco de dados:
 
 - Postgresql
 - php
